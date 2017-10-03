@@ -8,7 +8,7 @@
 
 
 # Ngx-Quill-Editor
-Quill editor for Angularx.
+Quill editor for AngularX.
 
 基于Quill、适用于Angularx的富文本编辑器。
 
@@ -22,11 +22,6 @@ Quill editor for Angularx.
 ``` bash
 npm install ngx-quill-editor --save
 ```
-
-``` bash
-npm install --save-dev @types/quill
-```
-
 
 ### Sample
 
